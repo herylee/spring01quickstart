@@ -8,4 +8,23 @@ package hello;
 
 
 public class MessageService {
+
+
+   public String getMessage(){
+
+
+
+       return "hahaha";
+
+
+
+   }
+
+
+
+
+    public static void main(String[] args) {
+
+    }
+
 }
